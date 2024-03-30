@@ -1,0 +1,33 @@
+{
+  "name": "devcodementor",
+  "version": "1.0.2",
+  "description": "devcodementor",
+  "type": "module",
+  "main": "devcodementor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jansonk1993/devcodementor"
+  },
+  "website": "https://github.com/jansonk1993/devcodementor.git",
+  "keywords": [
+    "devcodementor"
+  ],
+  "author": "jansonk1993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jansonk1993/devcodementor/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/jansonk1993/devcodementor#readme",
+  "dependencies": {
+    "programdevcraft": "1.0.2",
+    "codecraftsensei": "1.0.2",
+    "devscriptwiz": "1.0.2"
+  }
+}
